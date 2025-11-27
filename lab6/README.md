@@ -11,4 +11,3 @@ L'ordine degli esercizi è il seguente:
 2. `exception1`
 3. `collections2`
 4. `exception2`
-5. `generics1`
